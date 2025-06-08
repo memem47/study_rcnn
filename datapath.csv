@@ -1,0 +1,6 @@
+clip_id,frame_idx,image_path,mask_path
+0001,0001,data/clips/0001/img_0001.png,data/clips/0001/mask_0001.png
+0001,0002,data/clips/0001/img_0002.png,data/clips/0001/mask_0002.png
+0001,0003,data/clips/0001/img_0003.png,data/clips/0001/mask_0003.png
+0002,0001,data/clips/0002/img_0001.png,data/clips/0002/mask_0001.png
+0002,0002,data/clips/0002/img_0002.png,data/clips/0002/mask_0002.png
